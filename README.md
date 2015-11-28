@@ -1,4 +1,4 @@
-# Electron.Shell
+# Electron.Screen
 Interop for electron's screen module
 
 ## Documentation
